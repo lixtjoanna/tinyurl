@@ -1,8 +1,8 @@
 # full-stack-tinyurl
 
-requirement: docker
-goto Week4/app/
-type:
+* requirement: docker
+* goto Week4/app/
+* type:
 
 ```
 npm install
